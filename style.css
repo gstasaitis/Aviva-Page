@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  width: 150px;
+  display: block;
+  margin: auto;
+  padding: 0;
+}
+.menu {
+  height: auto;
+  background-color: #010216;  
+}
+h1{
+  color: white;
+  text-align: left;
+  padding: 15px;
+}
+.bar {
+  max-width: 90%;
+  height: auto;
+  background-color: #dcb500; 
+  padding: 10px; 
+  margin: auto;
+  text-align: right;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+}
+.about {
+  height: auto;
+  background-color: #ffffff;
+  margin: 15px;   
+  text-align: justify; 
+}
+.red-button{
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 25%;
+  margin: auto;
+}
+.table {
+  height: auto;
+  background-color: #01184c;
+  /* margin-bottom: 20px; */
+  padding-bottom: 20px;    
+}
+table{
+  width: 90%;
+  margin: 5px auto;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-collapse: collapse;
+  text-align: center;
+  color: white;
+}
+th, td{
+  width: auto;
+  height: 50%;
+    border: 1.5px solid red;
+    padding: 3px;
+}
+th{
+  text-align: right;
+}
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+h2.tableh{
+  color: white;
+  padding: 15px;
+}
+.contacts{
+  padding: 20px;
+}
+ul{
+  padding-left: 45px;
+  padding-top: 20px;
+}
+.goup{
+  padding-left: 50%;
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+.footer p {
+  height: auto;
+  padding: 10px;
+  color: white;
+  background-color: #dcb500;  
+  text-align: center;  
+}
+
